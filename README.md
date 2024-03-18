@@ -2,6 +2,8 @@
 
 ## Repositorio del grupo IR51
 
-1. Lista 1
-2. Lista 2
-    21. Lista 3
+## Integrantes
+
+1. Molina Adame Said Gilberto
+2. Piña de la Cruz Magdalena
+3. Ramirez Laurencio Alexis
